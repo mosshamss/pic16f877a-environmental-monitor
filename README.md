@@ -85,13 +85,14 @@ The following images show the PIC16F877A environmental monitoring project.
 
 ### Project Images
 
-![Project Image 1](media/picture-1.jpg)
+![Project Image 1](media/picture-1.jpeg)
 
-![Project Image 2](media/picture-2.jpg)
+![Project Image 2](media/picture-2.jpeg)
 
-![Project Image 3](media/picture-3.jpg)
+![Project Image 3](media/picture-3.jpeg)
 
-![Project Image 4](media/picture-4.jpg)
+![Project Image 4](media/picture-4.jpeg)
+
 
 ### Demonstration Video
 
