@@ -69,7 +69,7 @@ The spelling `soilsesnsor` is retained from the original project to preserve its
 
 ## Verification and limitations
 
-- The original mikroC build log records a **successful compile and link on 21 May 2024** for PIC16F877A.
+- The original mikroC project was successfully compiled and linked for the PIC16F877A microcontroller.
 - The repository does not include independent validation measurements or a calibration dataset.
 - The DHT11 read routine uses blocking waits rather than timeouts. A missing or unresponsive sensor could cause the firmware to wait indefinitely.
 - The firmware displays readings locally on the LCD. There is **no code for exporting readings to a database or file**.
@@ -77,6 +77,28 @@ The spelling `soilsesnsor` is retained from the original project to preserve its
 ## Skills demonstrated
 
 Embedded C, PIC microcontrollers, analogue-to-digital conversion (ADC), DHT11 communication, LCD interfacing, sensor integration, and circuit simulation.
+
+
+## Project Demonstration
+
+The following images show the PIC16F877A environmental monitoring project.
+
+### Project Images
+
+![Project Image 1](media/picture-1.jpg)
+
+![Project Image 2](media/picture-2.jpg)
+
+![Project Image 3](media/picture-3.jpg)
+
+![Project Image 4](media/picture-4.jpg)
+
+### Demonstration Video
+
+Watch the project demonstration:
+
+[Watch the Demonstration Video](media/demonstration-video.mp4)
+
 
 ## Author
 
