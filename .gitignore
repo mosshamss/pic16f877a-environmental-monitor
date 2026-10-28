@@ -1,0 +1,19 @@
+# Generated mikroC build diagnostics and temporary files
+*.dbg
+*.dct
+*.dlt
+*.lst
+*.mcl
+*.cp
+*.bmk
+*.brk
+*.log
+*.user.dic
+*.mcppi_callertable.txt
+Project Backups/
+
+# Proteus personal/local project workspace files
+*.pdsprj.DESKTOP*
+*.pdsprj.USER*
+
+# The supplied .hex file is intentionally retained for the Proteus simulation.
